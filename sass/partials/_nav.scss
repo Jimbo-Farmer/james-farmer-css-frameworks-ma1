@@ -7,6 +7,7 @@ nav{
     } 
     & .nav-link {
         font-size: 1.125rem;
+        font-family: $nav-link-font;
         color: $text;
     }  
     & .container-fluid {

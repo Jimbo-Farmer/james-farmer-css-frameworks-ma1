@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap");
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -11964,6 +11965,7 @@ nav .navbar-title {
 
 nav .nav-link {
   font-size: 1.125rem;
+  font-family: "Archivo Narrow", sans-serif;
   color: #8D8D8D;
 }
 
